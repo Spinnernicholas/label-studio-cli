@@ -1,0 +1,3 @@
+[console_scripts]
+ls-cli = label_studio_cli.main:main
+ls-cli-dev = label_studio_cli.dev_scripts:cli [dev]

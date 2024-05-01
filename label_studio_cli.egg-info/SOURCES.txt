@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+label_studio_cli/__init__.py
+label_studio_cli/dev_scripts.py
+label_studio_cli/main.py
+label_studio_cli.egg-info/PKG-INFO
+label_studio_cli.egg-info/SOURCES.txt
+label_studio_cli.egg-info/dependency_links.txt
+label_studio_cli.egg-info/entry_points.txt
+label_studio_cli.egg-info/requires.txt
+label_studio_cli.egg-info/top_level.txt
